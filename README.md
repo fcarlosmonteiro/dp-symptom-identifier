@@ -11,7 +11,8 @@ A base de dados foi construída em duas fases:
 
 1- Base de dados criada e rotulada com auxílio da Psicóloga Jéssica Rodrigues CRP 08/26401.
 
-2- Base de dados para experimentação adquirida por meio do twitter. 
+2- Base de dados para experimentação adquirida por meio do twitter.
+    obs: lembrando que as amostras de texto foram obtidas sem filtros para palavrões ou palavras obscenas, foi considerado apenas as referências da [base 1](), caso você queira utiliza-lá nos solicite por email.
 
 ## Contribuidores
 
