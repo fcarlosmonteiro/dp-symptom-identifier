@@ -15,7 +15,7 @@ A base de dados foi construída em duas fases:
 
 ## Contribuidores
 
-| [<img src="https://encurtador.com.br/wABIY" width="115"><br><sub>@psijessicarodrigues</sub>](https://www.instagram.com/psijessicarodrigues) |
+| [<img src="https://encurtador.com.br/otNQZ" width="115"><br><sub>@psijessicarodrigues</sub>](https://www.instagram.com/psijessicarodrigues) |
 | :---: | 
 
 # Autores
