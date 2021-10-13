@@ -8,10 +8,12 @@ O projeto **DP-Symptom-Identifier** consiste no desenvolvimento de uma base de d
 ## Dataset
 
 A base de dados foi construída em duas fases:
+
 1- Base de dados criada e rotulada com auxílio da Psicóloga Jéssica Rodrigues CRP 08/26401.
+
 2- Base de dados para experimentação adquirida por meio do twitter. 
 
 
 # Time
-| [<img src="https://encurtador.com.br/insT2" width=115><br><sub>@viniciuscasani1</sub>](https://github.com/viniciuscasani1) | [<img src="https://avatars2.githubusercontent.com/u/8697990?s=460&v=4" width=115><br><sub>@alinnesouza</sub>](https://github.com/alinnesouza) | [<img src="https://avatars.githubusercontent.com/u/5933552?v=4" width=115><br><sub>@rgmantovani</sub>](https://github.com/rgmantovanir) | [<img src="https://avatars2.githubusercontent.com/u/8319539?s=460&v=4" width=115><br><sub>@fcarlosmonteiro</sub>](https://github.com/fcarlosmonteiro) | 
+| [<img src="https://encurtador.com.br/insT2" width=115><br><sub>@viniciuscasani1</sub>](https://github.com/viniciuscasani1) | [<img src="https://avatars2.githubusercontent.com/u/8697990?s=460&v=4" width=115><br><sub>@alinnesouza</sub>](https://github.com/alinnesouza) | [<img src="https://avatars.githubusercontent.com/u/5933552?v=4" width=115><br><sub>@rgmantovani</sub>](https://github.com/rgmantovani) | [<img src="https://avatars2.githubusercontent.com/u/8319539?s=460&v=4" width=115><br><sub>@fcarlosmonteiro</sub>](https://github.com/fcarlosmonteiro) | 
 | :---: | :---: | :---: | :---: |
