@@ -1,18 +1,19 @@
 # dp-symptom-identifier
-DP-Symptom-Identifier: uma estratégia para classificar sintomas de depressão utilizando um conjunto de dados textuais na língua portuguesa
+DP-Symptom-Identifier: uma estratégia para classificar sintomas de depressão utilizando um conjunto de dados textuais no idioma Português Brasileiro.
 
 ## Informações gerais
 
-O projeto **DP-Symptom-Identifier** consiste no desenvolvimento de uma base de dados textuais contendo categorias sintomáticas de depressão, além disso, foi realizado um estudo experimental com aplicação de algoritmos aprendizado de máquina para classificação automática de textos oriundos do twitter.
+O projeto **DP-Symptom-Identifier** consiste no desenvolvimento de uma base de dados textuais contendo categorias sintomáticas de depressão. Além disso, foi realizado um estudo experimental com aplicação de algoritmos de aprendizado de máquina para classificação automática de textos oriundos do twitter.
 
 ## Dataset
 
 A base de dados foi construída em duas fases:
 
-1- Base de dados criada e rotulada com auxílio da Psicóloga Jéssica Rodrigues CRP 08/26401.
+1. Base de dados criada e rotulada com auxílio da Psicóloga Jéssica Rodrigues CRP 08/26401.
 
-2- Base de dados para experimentação adquirida por meio do twitter.
-    obs: lembrando que as amostras de texto foram obtidas sem filtros para palavrões ou palavras obscenas, foi considerado apenas as referências da [base 1](dataset-rotulado.csv), caso você queira utiliza-lá nos solicite por email.
+2. Base de dados para experimentação adquirida por meio do twitter.
+
+    - OBS: lembrando que as amostras de texto foram obtidas sem filtros para palavrões ou palavras obscenas. Portanto, foram consideradas apenas as referências da [base 1](dataset-rotulado.csv), caso você queira utilizar esse dataset nos solicite por email.
 
 ## Contribuidores
 
