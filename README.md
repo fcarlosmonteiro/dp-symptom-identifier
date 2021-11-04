@@ -3,7 +3,7 @@ DP-Symptom-Identifier: uma estratégia para classificar sintomas de depressão u
 
 ## Informações gerais
 
-O projeto **DP-Symptom-Identifier** consiste no desenvolvimento de uma base de dados textuais contendo categorias sintomáticas de depressão. Além disso, foi realizado um estudo experimental com aplicação de algoritmos de aprendizado de máquina para classificação automática de textos oriundos do twitter.
+O projeto **DP-Symptom-Identifier** consiste na criação de uma base de dados textuais contendo categorias sintomáticas de depressão. Além disso, foi realizado um estudo experimental com aplicação de algoritmos de aprendizado de máquina para classificação automática de textos oriundos do twitter.
 
 ## Dataset
 
