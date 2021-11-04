@@ -17,7 +17,7 @@ A base de dados foi construída em duas fases:
 
 ## Contribuidores
 
-| [<img src="https://avatars.githubusercontent.com/u/45667493?v=4" width="115"><br><sub>@psijessicarodrigues</sub>](https://www.instagram.com/psijessicarodrigues) |
+| [<img src="https://scontent-gru2-2.xx.fbcdn.net/v/t1.6435-9/140425116_1100584303753666_5021050708612968750_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGArUJkEajLFMSPcy1HNw8BQdQUpyDkKvNB1BSnIOQq87ISCK6N5HU85HKTKr7ibL0&_nc_ohc=nFt1v72qCwoAX9cMOLM&_nc_ht=scontent-gru2-2.xx&oh=1a3a49e19d58f2cf61804b1622bf44ae&oe=61AACD9D" width="115"><br><sub>@psijessicarodrigues</sub>](https://www.instagram.com/psijessicarodrigues) |
 | :---: | 
 
 # Autores
