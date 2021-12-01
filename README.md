@@ -26,4 +26,21 @@ A base de dados foi construída em duas fases:
 
 ## Citação do artigo publicado no STIL 2021
 
---Em breve--
+Artigo: https://sol.sbc.org.br/index.php/stil/article/view/17794
+
+
+```
+@inproceedings{stil,
+ author = {Vinicius Casani and Alinne Souza and Rafael Mantovani and Francisco Souza},
+ title = {DP-Symptom-Identifier: uma estratégia para classificar sintomas de depressão utilizando um conjunto de dados textuais na língua portuguesa},
+ booktitle = {Anais do XIII Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana},
+ location = {Evento Online},
+ year = {2021},
+ keywords = {},
+ issn = {0000-0000},
+ pages = {153--161},
+ publisher = {SBC},
+ address = {Porto Alegre, RS, Brasil},
+ doi = {10.5753/stil.2021.17794},
+ url = {https://sol.sbc.org.br/index.php/stil/article/view/17794}
+}
